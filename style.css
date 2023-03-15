@@ -1,0 +1,44 @@
+.heading 
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 5px 5px 12px #0099ff;
+    font-family: 'Prompt', sans-serif;
+    font-weight: 500;
+}
+
+.note 
+{
+    font-size: 15px;
+    color: #000000;
+    font-family: 'Prompt', sans-serif;
+    font-weight: 200;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: white;
+    background-color: #ff7b00;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Prompt', sans-serif;
+    font-weight: 300;
+}
+
+canvas 
+{
+    border: 3px solid #ae00ff;
+    border-radius: 10px;
+    box-shadow: 5px 5px 12px #ff0000;
+}
+
+body 
+{
+    background: linear-gradient(#f09ef3 0%, #fa299c 50%, #ff00c8 100%);
+    position: relative;
+    font-family: 'Prompt', sans-serif;
+}
